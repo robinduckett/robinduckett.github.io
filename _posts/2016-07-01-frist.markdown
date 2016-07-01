@@ -1,7 +1,14 @@
 ---
 layout: post
-title:  "Frist!1"
-date:   2016-07-01 11:11:51 +0100
+title: Frist!1
+date: '2016-07-01 11:11:51 +0100'
 categories: misc
+published: true
 ---
 This is a space for discussing development and life.
+
+Upcomming posts include:
+
+* Complaints
+* Unfounded Conjecture
+* Game of Thrones Spoilers
