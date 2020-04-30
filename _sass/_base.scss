@@ -61,6 +61,10 @@ figure,
  * Images
  */
 
+img {
+  max-width: 100%;
+}
+
 .post-content p img {
   max-width: 100%;
   margin: 100px auto;
