@@ -5,6 +5,7 @@ date: "2020-04-30 22:51:51 +0100"
 categories: projects
 published: true
 hero: "/images/clb-pretty.png"
+subtitle: "Extracting the background from Creatures 2 (1998)"
 ---
 
 ## Extracting the background from Creatures 2 (1998)
@@ -53,8 +54,8 @@ And here is the moneyshot, the entire background exported!
 
 [![Screenshot of background](/images/clb-output.png)](/images/clb-output.png)
 
-[Take a look at the code](https://github.com/robinduckett/clb-tools) and laugh at how embarrasingly easy it was and how long it took me.
+## Code
 
-##
+[Take a look at the code](https://github.com/robinduckett/clb-tools) and laugh at how embarrasingly easy it was and how long it took me.
 
 Peace!
