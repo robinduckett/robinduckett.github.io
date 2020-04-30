@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 'Project Release: CLB Tools'
-date: '2020-04-30 22:51:51 +0100'
+title: "Project Release: CLB Tools"
+date: "2020-04-30 22:51:51 +0100"
 categories: projects
 published: true
+hero: "/images/clb-pretty.png"
 ---
 
 Over the past few days, I have felt the urge to dive back into one of my favourite old games - Creatures 2.
