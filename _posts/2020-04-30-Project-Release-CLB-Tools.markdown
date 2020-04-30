@@ -44,7 +44,9 @@ Eventually I was able to pull it off!
 
 So here is the program in action in BLK mode
 
+<div class="no-shadow" markdown="1">
 ![Screenshot of of program in action](/images/clb-terminal.png)
+</div>
 
 ![Screenshot of of output S16 files as PNG](/images/clb-s16.png)
 
@@ -52,7 +54,9 @@ It can also decode S16 files into multiple different files.
 
 And here is the moneyshot, the entire background exported!
 
+<div class="no-shadow" markdown="1">
 [![Screenshot of background](/images/clb-output.png)](/images/clb-output.png)
+</div>
 
 ## Code
 
