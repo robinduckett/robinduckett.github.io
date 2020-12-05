@@ -8,6 +8,12 @@ hero: "/images/godot-robots.png"
 subtitle: "Vector Symbolic Architecture in Godot Script"
 ---
 
+![/images/godot-robots.png]
+
+Original example: https://github.com/simondlevy/vsarobot
+
+Paper here: https://simondlevy.academic.wlu.edu/files/publications/aaai2013.pdf
+
 ```gdscript
 var Constants = preload("../Constants.gd")
 
