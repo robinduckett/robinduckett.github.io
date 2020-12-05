@@ -8,7 +8,7 @@ hero: "/images/godot-robots.png"
 subtitle: "Vector Symbolic Architecture in Godot Script"
 ---
 
-![/images/godot-robots.png]
+![Robots](/images/godot-robots.png)
 
 Original example: https://github.com/simondlevy/vsarobot
 
