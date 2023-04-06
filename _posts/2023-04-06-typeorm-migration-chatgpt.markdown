@@ -1,17 +1,20 @@
 ---
 layout: post
-title:  "Get ChatGPT to Write Your TypeORM Migration Scripts: A Conversation Example"
+title:  "Get ChatGPT to Write Your TypeORM Migration Scripts"
 date:   2023-04-06 01:06:00 +0100
 categories: typeorm migration chatgpt
+published: true
+hero: "/images/hero-chatgpt.png"
+subtitle: "A Conversation Example"
 ---
 
 As a developer, writing migration scripts for your TypeORM models can be time-consuming. TypeORM provides the `synchronize: true` option in the configuration, which can automatically generate migrations when developing locally. However, this option is not recommended for use in production environments, where manual migration scripts are preferred.
 
-    > **Note**: The `synchronize: true` option in TypeORM configuration can be helpful during local development but is not recommended for production use. In production environments, manually creating migration scripts is the better approach.
+> **Note**: The `synchronize: true` option in TypeORM configuration can be helpful during local development but is not recommended for production use. In production environments, manually creating migration scripts is the better approach.
 
 Creating manual migration scripts can be tedious, so we turn to AI language models like ChatGPT to help us generate those scripts with ease. In this post, we'll walk through a real example of a conversation with ChatGPT, showcasing how it can generate a TypeORM migration script based on a given model.
 
-    ![ChatGPT helping a developer with migration scripts](/images/chatgpt-helping-developer.png)
+![ChatGPT helping a developer with migration scripts](/images/chatgpt-helping-developer.png)
 
 ## Problem Description
 
@@ -26,7 +29,7 @@ Initially, I asked ChatGPT to generate a migration script for the given model. I
 
 I then requested that these queries be wrapped in a TypeORM transaction and that each line be executed as a separate query, following our existing migration style. ChatGPT updated the migration script accordingly:
 
-    ![A generated migration script for a TypeORM model](/images/generated-migration-script.png)
+![A generated migration script for a TypeORM model](/images/generated-migration-script.png)
 
 > "By engaging in a conversation with the AI and specifying your requirements, ChatGPT can generate the necessary migration scripts for you."
 
